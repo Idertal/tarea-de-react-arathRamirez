@@ -1,3 +1,15 @@
+# Proyecto React con Vite
+
+Fork de base para la tarea de React.
+
+## Autor
+**Arath Ramírez Rivera**  
+Correo: arath.riverar@gmail.com
+
+Este proyecto contiene los ejercicios solicitados en `/owner`.
+
+-------------------------------------------------------------------------------------------
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
