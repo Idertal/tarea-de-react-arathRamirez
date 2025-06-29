@@ -12,7 +12,7 @@ export default function Header() {
   }
   return (
     <header className="header">
-      <h1 style={headerStyle}>Fast React Pizza Company</h1>;
+      <h1 style={headerStyle}>Fast React Pizza Company</h1>
     </header>
   );
 }
